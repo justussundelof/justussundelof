@@ -3,7 +3,7 @@
 ## Front-end developer student at KYH, Stockholm
 
 ### 📚 Skills:
- - JavaSCript
+ - JavaScript
  - React.js
  - HTML5
  - CSS3
