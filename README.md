@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hello! I'm Justus Sundelöf 👋
+
+## Front-end developer student at KYH, Stockholm
+
+### Skills
+ - JavaSCript
+ - React.js
+ - HTML5
+ - CSS3
+ - Firebase
+ - Node.js
+ - Git
+ - Figma
+
+### 📫 How to reach me:
+
+- 📫 justus@sundelof.se
+- 🔍 https://justussundelof.com/
+- 💼 https://www.linkedin.com/in/justus-sundel%C3%B6f-62a97020b/
+
 
 <!--
-**justussundelof/justussundelof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-   What am i up to?
 -->
